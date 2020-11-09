@@ -1,0 +1,5 @@
+video-games.json file has the data in json format. 
+Start your elastic appsearch 
+create an engine
+and configure the upload script, make sure it is pointed to the right appSearch domain
+and run upload script, to load the video-games.json file.
